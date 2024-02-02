@@ -1,3 +1,3 @@
-# ubuntu_setup
+# Ubuntu Setup
 
-## Remove Windows and install Ubuntu - [Tutorial](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
+## Remove Windows and Install Ubuntu - [Tutorial](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
