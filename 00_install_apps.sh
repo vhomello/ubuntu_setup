@@ -5,4 +5,6 @@ sudo apt-get -y upgrade
 sudo apt-get -y install vim
 sudo apt-get -y install git-all
 sudo apt-get -y install python3-pip
+sudo apt-get -y install tree
+sudo snap install --classic code
 
